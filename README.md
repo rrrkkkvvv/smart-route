@@ -86,7 +86,7 @@ The HeiGIT API key is optional. To obtain one, register at:
 
 After obtaining the key, uncomment the `HEIGIT_API_KEY` line and replace the placeholder with your key.
 
-**Important:** If `HEIGIT_API_KEY` is not configured, the HeiGIT provider will not be available. Selecting this provider in a route request will result in an HTTP 400 Bad Request response. Other configured routing provider can still be used.
+**Important:** If `HEIGIT_API_KEY` is not configured, the HeiGIT provider will not be available. Selecting this provider in a route request will result in an HTTP 400 Bad Request response. Other configured routing provider can still be used(Will be available only Transit transport mode).
 
 ### 3. Run the backend
 
