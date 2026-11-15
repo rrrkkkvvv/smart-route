@@ -58,7 +58,7 @@ The frontend uses a feature-based structure with reusable components.
 
 ```bash
 git clone https://github.com/rrrkkkvvv/smart-route.git
-cd smartRoute
+cd smart-route
 ```
 
 ### 2. Backend configuration
@@ -146,4 +146,3 @@ AI tools used during development:
 - **GitHub Copilot** — assistance with code completion, Tailwind CSS styling, and frontend component structure.
 
 AI-generated suggestions were reviewed and adapted during development.
-
