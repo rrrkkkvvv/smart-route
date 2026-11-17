@@ -10,7 +10,8 @@ SmartRoute is a web application for planning, comparing, and visualizing routes 
 - Route comparison by distance and duration.
 - Interactive map with route visualization.
 - Support for different transport modes.
-
+  
+Note: Address search is currently restricted to Poland. Locations outside Poland are not supported.
 ## Demo
 
 ![SmartRoute Demo](docs/demo.gif)
